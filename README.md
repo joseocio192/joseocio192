@@ -8,10 +8,11 @@
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=joseocio192&data=followers,repositories,stars,commits&theme=darkmode)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseocio192&theme=dark" alt="electwix" /></p>
 <a href="https://github.com/joseocio192">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseocio192&count_private=true&theme=radical&show_icons=true&hide=stars"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=joseocio192&count_private=true&theme=radical&show_icons=true&hide=stars"/> 
+  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joseocio192&layout=compact&hide=vue&title_color=69a6f8&bg_color=0e1116&border_color=31363c&text_color=cad1d8&icon_color=6f7680&border_radius=5)
 
 [![ElectwixGrap](https://github-readme-activity-graph.vercel.app/graph?username=joseocio192&hide_border=true&theme=xcode)](https://github.com/joseocio192)
-  
 [![trophy](https://github-profile-trophy.vercel.app/?username=joseocio192&theme=onedark)]([https://github.com/ryo-ma/github-profile-trophy](https://github.com/joseocio192))
 
 ![](https://komarev.com/ghpvc/?username=joseocio192)
