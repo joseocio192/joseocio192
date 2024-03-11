@@ -3,7 +3,7 @@
 [![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=300&section=header&text=Joseocio%20Github&fontSize=90&animation=fadeIn&fontAlignY=38&desc=Bienvenido%20a%20%20mi%20perfil%20&descAlignY=51&descAlign=62)](https://github.com/joseocio192)
 # About me
 ## Where do i study
-🔭 I’m currently studying at Instituto Tecnológico de Culiacán
+🔭 I’m currently studying Systems engineer at Instituto Tecnológico de Culiacán
 
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/profile?username=joseocio192&data=followers,repositories,stars,commits&theme=darkmode)]()
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joseocio192&theme=dark" alt="electwix" /></p>
