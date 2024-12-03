@@ -20,9 +20,9 @@
 
 ## Skills
 
-[![](https://github-widgetbox.vercel.app/api/skills?names=java,php,bash,csharp,x86,SQL,json,markdown&includeNames=true&theme=darkmode)](https://github.com/joseocio192)
+[![](https://github-widgetbox.vercel.app/api/skills?names=java,php,js,bash,csharp,x86,SQL,json,markdown&includeNames=true&theme=darkmode)](https://github.com/joseocio192)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?tools=git,aws,docker&includeNames=true&theme=darkmode)](https://github.com/joseocio192)
-[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=dotnet,laravel&includeNames=true&theme=darkmode)](https://github.com/joseocio192)
+[![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?frameworks=dotnet,laravel,express,node&includeNames=true&theme=darkmode)](https://github.com/joseocio192)
 [![GitHub WidgetBox](https://github-widgetbox.vercel.app/api/skills?software=linux,windows,vscode&includeNames=true&theme=darkmode)](https://github.com/joseocio192)
 
 ## 🔧 Technologies & Tools
